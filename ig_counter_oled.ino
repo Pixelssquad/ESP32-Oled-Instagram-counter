@@ -12,7 +12,7 @@ WiFiClientSecure client;
 //inizializza counter ig
 InstaFollowers instaStats("instagram-scraper-api2.p.rapidapi.com", "e27d9580afmshd5112c34d056974p1b74c0jsn1286cc636e9e");  //tua chiave api 
 
-// parametri display oledoled 
+// parametri display oledoled , indirizzo e pin
 SSD1306Wire display(0x3c, 21, 22);
 
 
