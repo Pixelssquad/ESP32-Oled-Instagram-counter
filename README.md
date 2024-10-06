@@ -1,5 +1,10 @@
-# InstaFollowers
+# InstaFollowers with esp32 and oled display
 **InstaFollowers** is an ESP8266/ESP32 module designed for easily get Instagram Followers / Following count number.
+Tnx to xamrex for the library
+
+![IMG20241006134915](https://github.com/user-attachments/assets/ecb190bf-0361-4bf0-9ae0-88ab2a587f10)
+
+
 
 ## Limitation
 FREE account allows only for 500 requests/month.
