@@ -68,7 +68,7 @@ void loop() {
   display.drawCircle(19, 9, 1);
   display.setFont(ArialMT_Plain_10);
   display.drawString(30, 5, "INSTAGRAM");
-  display.drawString(30, 15, "PS_Diegooz");
+  display.drawString(30, 15, "PS_Diegooz");  //nome viasualizzato sul display sotto la scritta instagram
 
 
 Serial.print("Follower count:"+String(FollowersCount));
